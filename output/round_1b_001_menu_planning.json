@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-26T11:18:30.806221"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Cottage Cheese and Veggie Bowl",
+      "importance_rank": 1,
+      "page_number": 16
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Veggie and Cheese Quesadilla",
+      "importance_rank": 2,
+      "page_number": 13
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Turkey and Apple Sandwich",
+      "importance_rank": 3,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Beef and Broccoli",
+      "importance_rank": 4,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Pulled Pork Sandwiches",
+      "importance_rank": 5,
+      "page_number": 7
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "- Serve immediately. Cottage Cheese and Veggie Bowl Ingredients: - 1 cup cottage cheese - 1/4 cup diced cucumber - 1/4 cup cherry tomatoes, halved - 1/4 cup diced bell pepper - Salt and pepper to taste Instructions: - In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper. - Season with salt and pepper. - Serve immediately. Almond Butter and Apple Slices Ingredients: - 1 apple, sliced - 2 tablespoons almond butter Instructions: - Spread almond butter on each apple slice. - Serve immediately.",
+      "page_number": 16
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "- Spread hummus on one slice of bread. - Layer the roasted eggplant, spinach, and roasted red peppers on top. - Top with the second slice of bread and cut in half. Chicken and Mango Salad Ingredients: - 1 cup cooked chicken breast, diced - 1/2 mango, diced - 1/4 cup red onion, finely chopped - 1/4 cup cilantro, chopped - 2 tablespoons olive oil - 1 tablespoon lime juice - Salt and pepper to taste Instructions: - In a bowl, combine the chicken, mango, red onion, and cilantro. - Drizzle with olive oil and lime juice. - Season with salt and pepper, then toss to combine. Veggie and Cheese Quesadilla Ingredients: - 1 whole wheat tortilla - 1/2 cup shredded cheese - 1/4 cup bell pepper, sliced - 1/4 cup zucchini, sliced - 1/4 cup red onion, sliced Instructions: - Lay the tortilla flat and sprinkle half of the cheese on one side. - Add the bell pepper, zucchini, and red onion. - Sprinkle the remaining cheese on top and fold the tortilla in half. - Cook in a skillet over medium heat until the cheese is melted and the tortilla is golden brown. - Slice into wedges. Chickpea and Spinach Wrap Ingredients: - 1 whole wheat tortilla - 1/2 cup chickpeas, mashed",
+      "page_number": 13
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "- 1/4 cup spinach, chopped - 1/4 cup shredded carrots - 1 tablespoon tahini - 1 tablespoon lemon juice - Salt and pepper to taste Instructions: - In a bowl, combine the mashed chickpeas, spinach, carrots, tahini, and lemon juice. - Season with salt and pepper. - Lay the tortilla flat and spread the mixture evenly. - Roll up the tortilla tightly and slice in half. Turkey and Apple Sandwich Ingredients: - 2 slices whole grain bread - 4 slices turkey breast - 1/2 apple, thinly sliced - 1/4 cup baby spinach - 1 tablespoon mustard or mayo Instructions: - Spread mustard or mayo on one slice of bread. - Layer the turkey, apple slices, and spinach on top. - Top with the second slice of bread and cut in half. Mediterranean Tuna Salad Ingredients: - 1 can tuna, drained - 1/4 cup cherry tomatoes, halved - 1/4 cup cucumber, diced - 1/4 cup black olives, sliced - 1/4 cup feta cheese, crumbled - 2 tablespoons olive oil - 1 tablespoon lemon juice - Salt and pepper to taste Instructions: - In a bowl, combine the tuna, tomatoes, cucumber, olives, and feta cheese. - Drizzle with olive oil and lemon juice. - Season with salt and pepper, then toss to combine.",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "- 1/2 cup basil pesto - 1/4 cup cherry tomatoes, halved - 1/4 cup grated Parmesan cheese - 2 tablespoons olive oil - Salt and pepper to taste Instructions: - In a large skillet, heat olive oil over medium heat. - Add zucchini noodles and cook until tender. - Stir in basil pesto and cherry tomatoes. - Season with salt and pepper. - Sprinkle with grated Parmesan cheese and serve. Beef and Broccoli Ingredients: - 1 pound beef sirloin, thinly sliced - 2 cups broccoli florets - 1 small onion, diced - 2 cloves garlic, minced - 1/4 cup soy sauce - 1/4 cup beef broth - 2 tablespoons oyster sauce - 1 tablespoon cornstarch - 2 tablespoons vegetable oil - Cooked rice for serving Instructions: - In a small bowl, mix soy sauce, beef broth, oyster sauce, and cornstarch. - In a large skillet, heat vegetable oil over medium heat. - Cook sliced beef until browned, then set aside. - In the same skillet, sauté diced onion and minced garlic until fragrant. - Add broccoli florets and stir-fry until tender. - Return beef to the skillet and pour sauce over the top. - Cook until sauce is thickened. - Serve over cooked rice. Chicken Fajitas Ingredients: - 1 pound chicken breast, sliced - 1 bell pepper, sliced - 1 small onion, sliced - 2 tablespoons fajita seasoning",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "- Chopped parsley for garnish - Cooked couscous for serving Instructions: - In a large pot, heat olive oil over medium heat. - Brown chicken thighs on all sides, then set aside. - Sauté onion and garlic until softened. - Stir in cumin, cinnamon, and turmeric, then add chicken broth, apricots, and olives. - Return chicken to the pot, cover, and simmer for 45 minutes until tender. - Season with salt and pepper. - Garnish with parsley and serve over couscous. Mushroom Risotto Ingredients: - 1 cup Arborio rice - 4 cups chicken or vegetable broth - 1 small onion, diced - 2 cloves garlic, minced - 1 cup mushrooms, sliced - 1/2 cup white wine - 1/2 cup grated Parmesan cheese - 2 tablespoons butter - 2 tablespoons olive oil - Salt and pepper to taste - Chopped parsley for garnish Instructions: - Heat broth in a pot and keep warm. - In a large skillet, heat olive oil and 1 tablespoon butter over medium heat. - Sauté onion, garlic, and mushrooms until tender. - Add rice and stir for 1-2 minutes until lightly toasted. - Pour in white wine and cook until absorbed. - Add warm broth, one ladle at a time, stirring until absorbed before adding more, until rice is creamy and tender (about 20 minutes). - Stir in remaining butter and Parmesan cheese, season with salt and pepper. - Garnish with parsley and serve. Pulled Pork Sandwiches Ingredients: - 2 pounds pork shoulder - 1 small onion, sliced - 2 cloves garlic, minced",
+      "page_number": 7
+    }
+  ]
+}
